@@ -6,8 +6,7 @@
  
  * 📚 My tistory
  
-    ![Tistory](http://img.shields.io/badge/-Tistory-A9D0F5?style=flat&logo=Tistory&link=https://resistance-bird.tistory.com)
-
+    <a href="https://resistance-bird.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-A9D0F5?style=flat-square&logo=Tistory&logoColor=white"/></a>
 
  <!--
 **seulgi9834/seulgi9834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
