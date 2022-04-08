@@ -1,5 +1,5 @@
  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=seulgi9834&fontSize=50)
-* 💻 I'm a student.
+
 * 🌱 I'm currently learning 
  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
