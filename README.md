@@ -2,11 +2,6 @@
 
 * 🌱 I'm currently learning 
  
- 
- * 📚 My tistory
- 
- 
-
  <!--
 **seulgi9834/seulgi9834** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
